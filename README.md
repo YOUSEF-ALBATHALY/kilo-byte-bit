@@ -24,7 +24,13 @@ The program:
 
 ---
 
-<pre> ✏️ Sample Output ``` ============================== ===== kilo byte bit program ===== ============================== What is the number of kilobyte ?: 5 the number in kilo is : 5 kb the number in bytes is : 5120 byte the number in bit is : 40960 bit ============================== =============@YOU$EF============= ``` </pre>
+✏️ **Sample Output**
+
+What is the number of kilobyte ?: 5
+
+the number in kilo is : 5 kb
+the number in bytes is : 5120 byte
+the number in bit is : 40960 bi
 
 
 ---
