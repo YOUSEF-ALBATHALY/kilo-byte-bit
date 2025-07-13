@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/kilo-byte-bit/main/banner.png" alt="KiloByte Converter Banner" width="100%">
+  <img src="https://github.com/YOUSEF-ALBATHALY/kilo-byte-bit/blob/main/67533f9b-bb65-4b41-a0f3-33274026ae9c.png?raw=true" alt="KiloByte Converter Banner" width="100%">
 </p>
 
 # 🔢 KiloByte → Byte → Bit Converter
@@ -36,8 +36,7 @@ the number in bit is : 40960 bit
 
 =================================
 =============@Y0U$EF=============
-yaml
-Copy code
+
 
 ---
 
