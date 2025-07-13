@@ -47,6 +47,4 @@ the number in bit is : 40960 bit
 
 ---
 
-## 🧠 License
 
-This project is for **educational purposes only** under a permissive open use.
