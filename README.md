@@ -24,7 +24,7 @@ The program:
 
 ---
 
-✏️ **Sample Output**
+## ✏️ Sample Output
 
 What is the number of kilobyte ?: 5
 
